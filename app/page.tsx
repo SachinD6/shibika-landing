@@ -290,50 +290,7 @@ export default function Home() {
                 without being expensive.
               </p>
             </div>
-            <div ref={addRevealRef} className="reveal reveal-delay-3">
-              <div className="philosophy-stats">
-                <div className="stat-item">
-                  <div className="stat-number">
-                    <span
-                      ref={addCounterRef}
-                      className="counter"
-                      data-target="50"
-                      data-suffix="+"
-                    >
-                      0
-                    </span>
-                  </div>
-                  <p className="stat-label">Products</p>
-                </div>
-                <div className="stat-item">
-                  <div className="stat-number">
-                    <span
-                      ref={addCounterRef}
-                      className="counter"
-                      data-target="10"
-                      data-suffix="K+"
-                    >
-                      0
-                    </span>
-                  </div>
-                  <p className="stat-label">Happy Customers</p>
-                </div>
-                <div className="stat-item">
-                  <div className="stat-number">
-                    <span
-                      ref={addCounterRef}
-                      className="counter"
-                      data-target="100"
-                      data-suffix="%"
-                    >
-                      0
-                    </span>
-                  </div>
-                  <p className="stat-label">Made in India</p>
-                </div>
-              </div>
-            </div>
-          </div>
+           
 
           <div ref={addRevealRef} className="reveal reveal-delay-2">
             <div className="philosophy-visual">
