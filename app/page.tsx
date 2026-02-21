@@ -526,17 +526,13 @@ export default function Home() {
           <div ref={addRevealRef} className="reveal testimonial-card">
             <div className="testimonial-quote">&ldquo;</div>
             <p className="testimonial-text">
-              The paper quality is unmatched at this price point. My fountain pen
-              glides beautifully without any feathering. Shibika has become my
-              go-to for all my journaling needs.
+              Didnt expect the paper to be this smooth honestly. My fountain pen works perfectly on it and there is no ink spread. I have been using it daily for journaling now.
             </p>
             <div className="testimonial-author">
               <div className="testimonial-avatar bg-terracotta">A</div>
               <div>
-                <p className="testimonial-author-name">Ananya Sharma</p>
-                <p className="testimonial-author-role">
-                  Architect & Journal Enthusiast
-                </p>
+                <p className="testimonial-author-name">Ananya</p>
+               
               </div>
             </div>
           </div>
@@ -544,17 +540,13 @@ export default function Home() {
           <div ref={addRevealRef} className="reveal reveal-delay-1 testimonial-card">
             <div className="testimonial-quote">&ldquo;</div>
             <p className="testimonial-text">
-              As an artist, I&apos;m extremely particular about sketchbook
-              quality. Shibika&apos;s Art & Sketch series handles watercolors
-              brilliantly. The texture, the weight — it&apos;s perfect.
+              Ordered a few notebooks for work and everyone liked them. They open flat and feel good to write on during meetings. Simple and well made.
             </p>
             <div className="testimonial-author">
               <div className="testimonial-avatar bg-sage">R</div>
               <div>
                 <p className="testimonial-author-name">Rahul Menon</p>
-                <p className="testimonial-author-role">
-                  Illustrator & Visual Artist
-                </p>
+
               </div>
             </div>
           </div>
@@ -562,17 +554,13 @@ export default function Home() {
           <div ref={addRevealRef} className="reveal reveal-delay-2 testimonial-card">
             <div className="testimonial-quote">&ldquo;</div>
             <p className="testimonial-text">
-              I bought the Executive Series for my team and they absolutely loved
-              it. The lay-flat binding and premium feel make meetings more
-              productive. Outstanding value.
+             Ordered a few notebooks for work and everyone liked them. They open flat and feel good to write on during meetings. Simple and well made.
             </p>
             <div className="testimonial-author">
               <div className="testimonial-avatar bg-navy">P</div>
               <div>
-                <p className="testimonial-author-name">Priya Desai</p>
-                <p className="testimonial-author-role">
-                  Startup Founder & CEO
-                </p>
+                <p className="testimonial-author-name">Priya</p>
+               
               </div>
             </div>
           </div>
