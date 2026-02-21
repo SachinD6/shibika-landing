@@ -291,6 +291,7 @@ export default function Home() {
               </p>
             </div>
            
+          </div>
 
           <div ref={addRevealRef} className="reveal reveal-delay-2">
             <div className="philosophy-visual">
@@ -735,7 +736,7 @@ export default function Home() {
 
         <div className="footer-bottom">
           <p className="footer-copyright">
-            © 2024 Shibika. All rights reserved. Crafted with ❤️ in India.
+            © 2025 Shibika. All rights reserved. Crafted with ❤️ in India.
           </p>
           <div className="footer-social">
             <a href="#">Instagram</a>
