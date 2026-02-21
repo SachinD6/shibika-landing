@@ -540,8 +540,7 @@ export default function Home() {
           <div ref={addRevealRef} className="reveal reveal-delay-1 testimonial-card">
             <div className="testimonial-quote">&ldquo;</div>
             <p className="testimonial-text">
-              Ordered a few notebooks for work and everyone liked them. They open flat and feel good to write on during meetings. Simple and well made.
-            </p>
+I am quite choosy about sketchbooks, but this one feels really nice to use. The pages handle watercolor well and the texture is just right. Been enjoying it a lot.            </p>
             <div className="testimonial-author">
               <div className="testimonial-avatar bg-sage">R</div>
               <div>
